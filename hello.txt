@@ -1,1 +1,3 @@
 I'm guessing this is a text file.
+
+Yes, this file is a text file. Happy editing.
